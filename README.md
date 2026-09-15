@@ -1,42 +1,15 @@
-# 100 Days of Code: C Practice Programs
+# 100 Days of Code: C Programming
 
-Student Name: [Enter your name]
-SAP ID/Roll Number: [Enter your ID]
-Course/Class: [Enter your course]
-Professor: [Enter professor name]
-University: [Enter university name]
+Welcome to my 100 Days of Code journey!
 
-This repository contains my C practice programs for the 100 Days of Code assignment. Each question is an independent C program with its own `main()` function.
+This repository contains my daily C programming solutions for the
+100 Days of Code assignment. The goal is to strengthen my understanding
+of programming fundamentals, algorithms, arrays, and problem-solving.
 
-- Days completed: Day 01 through Day 36
-- Programs included: Q01 through Q72
-- Language used: C
+## Progress
 
-## Compile and run
-
-From the project folder, compile a program with:
-
-```sh
-gcc -std=c11 -Wall -Wextra -pedantic Day01/Q01.c -o Q01
-```
-
-Run it with:
-
-```sh
-./Q01
-```
-
-On Windows, run the executable as `Q01.exe`.
-
-## Topics covered
-
-- Input and output
-- Arithmetic operations
-- Conditional statements
-- Switch-case
-- Loops and nested loops
-- Number problems
-- One-dimensional arrays
-- Binary search and linear search
-- Array insertion, deletion, and rotation
-- Two-dimensional arrays
+- Completed: 36 of 100 days
+- Programs: 72
+- Language: C
+- Course: BCA
+- University: UPES
