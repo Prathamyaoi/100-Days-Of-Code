@@ -7,9 +7,8 @@ This repository contains my daily C programming solutions for the
 of programming fundamentals, algorithms, arrays, and problem-solving.
 
 ## Progress
-
-- Completed: 36 of 100 days
-- Programs: 72
+- Days completed: Day 01 through Day 38
+- Programs included: Q01 through Q76
 - Language: C
 - Course: BCA
 - University: UPES
